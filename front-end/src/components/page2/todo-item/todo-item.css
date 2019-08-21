@@ -1,0 +1,17 @@
+.todo-item {
+  border-bottom: 1px solid yellowgreen;
+  min-height: 40px;
+  list-style: none;
+  padding: 0 16px;
+  cursor: pointer;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  position: relative;
+}
+
+.todo-item .fa-times {
+  color: rgba(47, 175, 100, 0.986);
+  width: 30px;
+  height: 30px;
+}

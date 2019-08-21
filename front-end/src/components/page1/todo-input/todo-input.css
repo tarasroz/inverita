@@ -1,0 +1,12 @@
+.todo-input {
+  padding: 16px 16px 16px 60px;
+  width: 80%;
+  box-sizing: border-box;
+  color: yellowgreen;
+  margin: 50px auto 20px;
+  position: relative;
+  border: 1px solid yellowgreen;
+  background-color: black;
+  border-radius: 30px;
+  outline: none;
+}

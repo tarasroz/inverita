@@ -1,0 +1,9 @@
+.todo-wrapper {
+  min-height: 200px;
+  margin: auto;
+  position: relative;
+  background: #000;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
